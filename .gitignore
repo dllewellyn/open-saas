@@ -4,3 +4,10 @@
 
 # Local Netlify folder
 .netlify
+
+# Kotlin build artifacts
+kotlin-app/build/
+kotlin-app/.gradle/
+*.log
+*.tmp
+/tmp/
